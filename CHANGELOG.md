@@ -1,3 +1,3 @@
-## [0.0.1] - Initial version
+## [0.0.2] - Update README.md
 
-* TODO: Oval shape support.
+## [0.0.1] - Initial version
