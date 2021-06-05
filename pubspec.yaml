@@ -1,11 +1,11 @@
 name: circular_placeholder
-description: Circular Placeholder
-version: 0.0.3
+description: Circular Placeholder is widget. It is good to use this for circular areas when your circular designs are not ready yet.
+version: 0.1.0
 repository: https://github.com/levent-kantaroglu/circular_placeholder/
 documentation: https://github.com/levent-kantaroglu/circular_placeholder/
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:

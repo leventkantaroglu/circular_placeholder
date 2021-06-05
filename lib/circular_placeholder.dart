@@ -1,13 +1,23 @@
 library circular_placeholder;
 
 import 'dart:math';
-
 import 'package:flutter/material.dart';
 
 class CircularPlaceholder extends StatelessWidget {
-  final Color color;
-  final double strokeWidth;
-  CircularPlaceholder({this.color, this.strokeWidth});
+  /// The [CircularPlaceholder] widget
+  /// Default stroke and its color is the same as Placeholders widget's.
+
+  /// Defines strokeWidth of the circle
+  final double? strokeWidth;
+
+  /// Defines color of the circle
+  final Color? color;
+
+  CircularPlaceholder({
+    this.strokeWidth,
+    this.color,
+  });
+
   @override
   Widget build(BuildContext context) {
     return LayoutBuilder(
@@ -29,10 +39,10 @@ class CircularPlaceholder extends StatelessWidget {
 
 class _OpenPainter extends CustomPainter {
   final double size;
-  final double strokeWidth;
-  final Color color;
+  final double? strokeWidth;
+  final Color? color;
   _OpenPainter({
-    @required this.size,
+    required this.size,
     this.strokeWidth,
     this.color,
   });

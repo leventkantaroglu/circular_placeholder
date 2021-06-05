@@ -2,7 +2,7 @@
 
 Preview:
 
-![Preview](preview/preview.png)
+![Preview](https://github.com/levent-kantaroglu/circular_placeholder/blob/main/preview/preview.png?raw=true)
 
 Sample:
 ```
