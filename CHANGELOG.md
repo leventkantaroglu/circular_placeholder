@@ -1,3 +1,7 @@
+## [0.1.1]
+
+* Add funding tag
+
 ## [0.1.0] 
 
 * Support sound null safety
