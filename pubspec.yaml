@@ -3,7 +3,8 @@ description: Circular Placeholder is widget. It is good to use this for circular
 version: 0.1.1
 repository: https://github.com/levent-kantaroglu/circular_placeholder/
 documentation: https://github.com/levent-kantaroglu/circular_placeholder/
-funding: https://www.buymeacoffee.com/kantaroglu
+funding:
+  - https://www.buymeacoffee.com/kantaroglu
 
 environment:
   sdk: ">=2.18.0 <3.0.0"
