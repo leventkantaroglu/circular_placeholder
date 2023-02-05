@@ -1,10 +1,13 @@
 name: circular_placeholder
 description: Circular Placeholder is widget. It is good to use this for circular areas when your circular designs are not ready yet.
-version: 0.1.1
+version: 0.1.2
 repository: https://github.com/levent-kantaroglu/circular_placeholder/
 documentation: https://github.com/levent-kantaroglu/circular_placeholder/
 funding:
   - https://www.buymeacoffee.com/kantaroglu
+screenshots:
+  - description: 'This screenshot shows a preview of the CircularPlaceholder widget.'
+    path: preview/preview.png
 
 environment:
   sdk: ">=2.18.0 <3.0.0"

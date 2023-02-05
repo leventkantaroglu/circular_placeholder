@@ -1,3 +1,7 @@
+## [0.1.2]
+
+* Add screenshot for pub.dev
+
 ## [0.1.1]
 
 * Add funding tag
