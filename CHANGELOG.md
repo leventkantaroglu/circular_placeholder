@@ -1,37 +1,41 @@
+## [0.1.3]
+
+- Add topics
+
 ## [0.1.2]
 
-* Add screenshot for pub.dev
+- Add screenshot for pub.dev
 
 ## [0.1.1]
 
-* Add funding tag
+- Add funding tag
 
-## [0.1.0] 
+## [0.1.0]
 
-* Support sound null safety
+- Support sound null safety
 
-## [0.0.6] 
+## [0.0.6]
 
-* Add example folder
-* Update pubspec.yaml
-* Add documentation lines
+- Add example folder
+- Update pubspec.yaml
+- Add documentation lines
 
-## [0.0.5] 
+## [0.0.5]
 
-* Update README.md
+- Update README.md
 
 ## [0.0.4]
 
-* Update README.md
+- Update README.md
 
 ## [0.0.3]
 
-* Update pubspec.yaml
+- Update pubspec.yaml
 
 ## [0.0.2]
 
-* Update README.md
+- Update README.md
 
 ## [0.0.1]
 
-* Initial version
+- Initial version

@@ -6,11 +6,16 @@ documentation: https://github.com/levent-kantaroglu/circular_placeholder/
 funding:
   - https://www.buymeacoffee.com/kantaroglu
 screenshots:
-  - description: 'This screenshot shows a preview of the CircularPlaceholder widget.'
+  - description: "This screenshot shows a preview of the CircularPlaceholder widget."
     path: preview/preview.png
 
+topics:
+  - circular
+  - placeholder
+  - circle
+
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: ">=2.18.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
